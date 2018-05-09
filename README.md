@@ -45,14 +45,16 @@ Oui oui, Gulp va t'aider à par exemple :
 
 faire du [Live Reload](https://scotch.io/tutorials/a-quick-guide-to-using-livereload-with-gulp)...
 
+[![Reload](http://img.youtube.com/vi/gj1zgcF2bYI/0.jpg)](http://www.youtube.com/watch?v=gj1zgcF2bYI "Live"
+
 ##  How do I install this sh#t ?
 :octocat: *T'es à BeCode ou bien?* **RTFM!**
 [Gulp pour les débutants](https://la-cascade.io/gulp-pour-les-debutants/)
 
 ## Where is Jessica Hyde ?
 [![Utopia - Where is Jessica Hyde?](http://img.youtube.com/vi/xCUNfg2qJN0/0.jpg)](http://www.youtube.com/watch?v=xCUNfg2qJN0 "")
-[La (re)découverte de la semaine : Utopia, Where is Jessica Hyde ? | melty]
-(https://www.melty.fr/la-re-decouverte-de-la-semaine-utopia-where-is-jessica-hyde-a435202.html)
+
+[La (re)découverte de la semaine : Utopia, Where is Jessica Hyde ? | melty](https://www.melty.fr/la-re-decouverte-de-la-semaine-utopia-where-is-jessica-hyde-a435202.html)
 
 ## I'm sold, gimme the links!
 - [Gulp pour les allergiques à l'anglais](https://www.youtube.com/watch?v=FSgxktM2zhc)
