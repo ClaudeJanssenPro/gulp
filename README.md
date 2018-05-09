@@ -26,7 +26,7 @@ c'est outil qu'on peut programmer en JavaScript*-ish* pour exécuter automatique
 
 Oui oui, Gulp va t'aider à par exemple :
 
-*à concatener tes multiples fichiers js*, bien pratiques pour développer mais qui sont une toirture pour le navigateur du client (parce que c'est chaque fois un appel au serveur...) quand tu vas passer en production.
+*à concatener tes multiples fichiers js*, bien pratiques pour développer mais qui sont une torture pour le navigateur du client (parce que c'est chaque fois un appel au serveur...) quand tu vas passer en production.
 
 ![concat](https://i.gyazo.com/f777936e56b50515ce8ddc654a978e76.png)
 
@@ -36,16 +36,18 @@ Oui oui, Gulp va t'aider à par exemple :
 *à trouver les fautes de frappe dans ton code*, avec JSHint
 
 *à uglifier et minifier ton JS*
+
 ![jsc](https://i.gyazo.com/75be3b5b8928c4a3f7bfad6759ea24a1.png)
 ![jsu](https://i.gyazo.com/cbf99f6d1757330632636962171050cb.png)
 
-*ton CSS aussi*
+*ton CSS aussi* 
+
 ![CSSc](https://i.gyazo.com/f845e95b3e5d916a5cd50ea47ed080bf.png)
 ![CSSu](https://i.gyazo.com/9e1f632539914372e4db7ccbcdfb9f05.png)
 
 faire du [Live Reload](https://scotch.io/tutorials/a-quick-guide-to-using-livereload-with-gulp)...
 
-[![Reload](http://img.youtube.com/vi/gj1zgcF2bYI/0.jpg)](http://www.youtube.com/watch?v=gj1zgcF2bYI "Live"
+[![Reload](http://img.youtube.com/vi/gj1zgcF2bYI/0.jpg)](http://www.youtube.com/watch?v=gj1zgcF2bYI "Live")
 
 ##  How do I install this sh#t ?
 :octocat: *T'es à BeCode ou bien?* **RTFM!**
